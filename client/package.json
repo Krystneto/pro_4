@@ -1,0 +1,30 @@
+{
+  "name": "credit-rewards-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:8080",
+  "devDependencies": {
+    "react-scripts": "0.9.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.8.5",
+    "morgan": "^1.8.1",
+    "react": "^15.4.2",
+    "react-bootstrap": "^0.30.7",
+    "react-cookie": "^1.0.4",
+    "react-dom": "^15.4.2",
+    "react-router": "^3.0.2",
+    "session": "^0.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "seed": "node ./api/config/seeds.js",
+    "server": "node server.js"
+  }
+}
