@@ -10,5 +10,8 @@
     "mongoose": "^4.8.5",
     "morgan": "^1.8.1",
     "session": "^0.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
