@@ -24,7 +24,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "seed": "node ./api/config/seeds.js",
-    "server": "node server.js"
+    "seed": "node ./api/config/seeds.js"
   }
 }

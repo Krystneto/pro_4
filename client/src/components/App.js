@@ -9,7 +9,7 @@ import Footer from './Footer';
 // import { Router, Route} from 'react-router'
 
 
-
+// test seed data
 // const chaseFreedom = {
 //   name: "Chase Freedom",
 //   category: {
