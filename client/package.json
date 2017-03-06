@@ -26,4 +26,5 @@
     "eject": "react-scripts eject",
     "seed": "node ./api/config/seeds.js"
   }
+  "homepage": "https://krystneto.github.io/project_4_credit_rewards_cheetsheet"
 }
